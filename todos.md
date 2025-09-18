@@ -1,9 +1,5 @@
 # Todo Multiple Courses Feature Documentation
 
-## Overview
-
-The Todo module has been enhanced to support multiple courses instead of just one course per todo item. This allows students to create todos that span across multiple courses, providing better organization and flexibility in their study planning.
-
 ## Changes Made
 
 ### 1. Database Schema Changes
